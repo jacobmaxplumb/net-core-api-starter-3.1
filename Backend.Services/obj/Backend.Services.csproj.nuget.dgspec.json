@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Services/Backend.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Core/Backend.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Core/Backend.Core.csproj",
+        "projectName": "Backend.Core",
+        "projectPath": "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Core/Backend.Core.csproj",
+        "packagesPath": "/Users/jacobplumb/.nuget/packages/",
+        "outputPath": "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jacobplumb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Services/Backend.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Services/Backend.Services.csproj",
+        "projectName": "Backend.Services",
+        "projectPath": "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Services/Backend.Services.csproj",
+        "packagesPath": "/Users/jacobplumb/.nuget/packages/",
+        "outputPath": "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Services/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jacobplumb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Core/Backend.Core.csproj": {
+                "projectPath": "/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Core/Backend.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

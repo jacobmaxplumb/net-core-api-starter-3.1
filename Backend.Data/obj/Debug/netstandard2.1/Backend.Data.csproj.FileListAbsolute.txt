@@ -1,0 +1,12 @@
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/obj/Debug/netstandard2.1/Backend.Data.csprojAssemblyReference.cache
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/obj/Debug/netstandard2.1/Backend.Data.csproj.CoreCompileInputs.cache
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/obj/Debug/netstandard2.1/Backend.Data.AssemblyInfoInputs.cache
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/obj/Debug/netstandard2.1/Backend.Data.AssemblyInfo.cs
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/bin/Debug/netstandard2.1/Backend.Data.deps.json
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/bin/Debug/netstandard2.1/Backend.Data.dll
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/bin/Debug/netstandard2.1/Backend.Data.pdb
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/bin/Debug/netstandard2.1/Backend.Core.dll
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/bin/Debug/netstandard2.1/Backend.Core.pdb
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/obj/Debug/netstandard2.1/Backend.Data.csproj.CopyComplete
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/obj/Debug/netstandard2.1/Backend.Data.dll
+/Users/jacobplumb/custom-programs/raise-and-review/Backend/Backend.Data/obj/Debug/netstandard2.1/Backend.Data.pdb
